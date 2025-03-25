@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I am Alex Zerah. Human. Artist. Developper. Teacher.
+I am Alex Zerah. Developper. Teacher. Strategist.
 
-- 🔭 I’m currently working on course for new developer / react projects.
+- 🔭 I’m currently delivering an introductory web dev course
 - 🌱 I’m currently learning JavaScript, NodeJS, React. 
 - 👯 I’m looking to collaborate on open source JS project / entrepreneur projects.
 - 💬 Ask me about web development. I will do my best to help you.
-- 📫 How to reach me: alex.zerah@gmail.com
+- 📫 How to reach me: hi@alexzerah.com
 - ⚡ Fun fact: [I draw cyclops.](https://www.instagram.com/_alexharez)
 
 Have a nice day ☀️.
