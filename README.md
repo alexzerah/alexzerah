@@ -3,7 +3,7 @@
 I am Alex Zerah. Developper. Teacher. Strategist.
 
 - 🔭 I’m currently delivering an introductory web dev course
-- 🌱 I’m currently learning JavaScript, NodeJS, React. 
+- 🌱 I’m currently teaching JavaScript, React, Next, NodeJS, git, AI  
 - 👯 I’m looking to collaborate on open source JS project / entrepreneur projects.
 - 💬 Ask me about web development. I will do my best to help you.
 - 📫 How to reach me: hi@alexzerah.com
