@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Alex Zerah. Developper. Teacher. Strategist.
+I am Alex Zerah. Developer. Teacher. Strategist.
 
 - 🔭 I’m currently delivering an introductory web dev course
 - 🌱 I’m currently teaching JavaScript, React, Next, NodeJS, git, AI  
